@@ -14,8 +14,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React and Hooks, Terraform, AWS etc. and be awesome! Made with
-            love by yeexel in Jan 2019 :)
+            Made with love by yeexel in Jan 2019 :)
           </a>
         </header>
       </div>
