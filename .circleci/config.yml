@@ -10,7 +10,8 @@ version: 2
 jobs:
   build:
     <<: *defaults
-    machine: true
+    docker:
+      - image: circleci/node
     steps:
       - checkout
       # Download and cache dependencies
