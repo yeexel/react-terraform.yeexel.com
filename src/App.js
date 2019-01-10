@@ -14,7 +14,8 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Made with love by yeexel in January 2019 :) Stay tuned for more!
+            Made with love by yeexel in January 2019 :) Stay tuned for more and
+            take care!
           </a>
         </header>
       </div>
