@@ -14,7 +14,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Made with love by yeexel in January 2019 :) Stay tuned for more!
+            Provisioned with AWS and Terraform
           </a>
         </header>
       </div>
