@@ -48,7 +48,10 @@ export function register(config) {
         });
       } else {
         // Is not localhost. Just register service worker
-        // registerValidSW(swUrl, config);
+        let run = false;
+        if (run) {
+          registerValidSW(swUrl, config);
+        }
       }
     });
   }
@@ -116,7 +119,10 @@ function checkValidServiceWorker(swUrl, config) {
         });
       } else {
         // Service worker found. Proceed as normal.
-        // registerValidSW(swUrl, config);
+        let runsw = false;
+        if (runsw) {
+          registerValidSW(swUrl, config);
+        }
       }
     })
     .catch(() => {

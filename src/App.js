@@ -15,7 +15,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Made with love by yeexel in January 2019 :) Stay tuned for more and
-            take care!!!
+            take care!!! I hate SW...
           </a>
         </header>
       </div>
