@@ -14,7 +14,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Provisioned with AWS and Terraform in January 2019 :) Hello World!
+            Provisioned with AWS and Terraform in January 2019 :)
           </a>
         </header>
       </div>
